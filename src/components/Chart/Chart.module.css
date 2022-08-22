@@ -1,0 +1,30 @@
+.block{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    }
+
+li {
+    list-style-type: none;
+    display: flex;
+    width: 100%;
+    /* max-width: 600px; */
+    height: 40px;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+h3{
+    width: 100%;
+    max-width: 200px;
+
+}
+.line {
+    width: 100%;
+    max-width: 500px;
+height: 100%;
+margin-left: 30px;
+}
+
